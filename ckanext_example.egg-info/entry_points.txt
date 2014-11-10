@@ -1,0 +1,4 @@
+
+    [ckan.plugins]	
+	rostock_test_harvester=ckanext.example.harvester:RostockTestHarvester
+	

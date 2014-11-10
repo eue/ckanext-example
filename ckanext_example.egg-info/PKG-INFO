@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ckanext-example
+Version: 0.1
+Summary: Example harvester plugin for CKAN
+Home-page: https://github.com/fraunhoferfokus/ckanext-govdatade
+Author: Fraunhofer FOKUS
+Author-email: ogdd-harvesting@fokus.fraunhofer.de
+License: AGPL
+Description: 	
+Platform: UNKNOWN
